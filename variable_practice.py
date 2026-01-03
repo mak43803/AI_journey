@@ -20,3 +20,4 @@ print("Hello " + name + ", you are " + age + " years old.")
 city = input("enter your city:")
 country = input("enter your country:")
 print("you live in " + city + ", " + country)
+
